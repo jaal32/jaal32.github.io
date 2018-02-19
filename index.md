@@ -4,7 +4,7 @@
 
 --------------------------------
 
-[Bio](Bio.md)
+[Bio](jaal32.github.io/bio.md)
 
 [Topic](Topic.md)
 
