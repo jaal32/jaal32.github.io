@@ -4,8 +4,8 @@
 
 --------------------------------
 
-[Bio](Bio)
+[Bio](Bio.md)
 
-[Topic](Topic)
+[Topic](Topic.md)
 
 [Photo Album](PhotoAlbum)
