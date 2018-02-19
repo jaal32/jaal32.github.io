@@ -4,8 +4,10 @@
 
 --------------------------------
 
-[Bio](bio.md)
+[Bio](https://jaal32.github.io/bio)
 
-[Topic](Topic.md)
+
+[Topic](https://jaal32.github.io/topic)
+
 
 [Photo Album](PhotoAlbum)
