@@ -28,4 +28,6 @@ I think my purpose in life is to help people in poor countries.  We might not ev
 
 [Topic](Topic)
 
-[Home](Home)
+[Photo Album](PhotoAlbum)
+
+[Home](index.md)
