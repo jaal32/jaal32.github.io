@@ -4,7 +4,7 @@
 
 ---------------------------------
 
-[Bio](https://jaal32.github.io/bio)
+[Bio](https://jaal32.github.io/biography)
 
 
 [Topic](https://jaal32.github.io/topic)
