@@ -32,4 +32,4 @@ I think my purpose in life is to help people in poor countries.  We might not ev
 
 [Photo Album](https://www.youtube.com/watch?v=oHg5SJYRHA0)
 
-[Home](https://jaal32.github.io/)
+[Home](https://jaal32.github.io/home)
