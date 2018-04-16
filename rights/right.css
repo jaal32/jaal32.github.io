@@ -1,0 +1,10 @@
+body {background-image: url("const.jpg"); background-repeat: no-repeat; font-family: 'Lobster', cursive; 
+  background-attachment: fixed;}
+p {font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
+h1 {text-align: center; color: darkred; }
+h4 {text-align: center; color: darkred; }
+h3 {color: darkred }
+strong {font size: 26px; font-weight: 600}
+
+
+a {margin-top: 25px; margin-right: 10px; float: right}
