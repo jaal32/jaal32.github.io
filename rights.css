@@ -5,8 +5,6 @@ h1 {text-align: center; color: darkred; }
 h4 {text-align: center; color: darkred; }
 h3 {color: darkred }
 strong {font size: 26px; font-weight: 600}
-em {color: darkred; font-style: italic}
-img {margin-top: 75px; margin-right: 20px; float: center}
+
+
 a {margin-top: 25px; margin-right: 10px; float: right}
-var {color: darkred; font-style: italic}
-sup {color: darkred}
