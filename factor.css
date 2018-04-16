@@ -4,7 +4,7 @@ h1 {text-align: center; color: #1a00ff; }
 h4 {text-align: center; color: #1a00ff; }
 h3 {color: #000000 }
 strong {font size: 26px; font-weight: 600}
-em {font-size: 18px; font-style: italic; text-transform: uppercase}
+em {color: #1a00ff; font-style: italic}
 img {margin-top: 75px; margin-right: 20px; float: right}
 a {margin-top: 25px; margin-right: 10px; float: right}
 var {color: #1a00ff; font-style: italic}
