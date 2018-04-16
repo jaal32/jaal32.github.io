@@ -1,11 +1,12 @@
-body {background-color: #98FB98}
-p {font-family: Geogia; font-size: 16px; color: #000000}
-h1 {text-align: center; color: #1a00ff; }
-h4 {text-align: center; color: #1a00ff; }
-h3 {color: #000000 }
+body {background-image: url("const.jpg"); background-repeat: no-repeat; font-family: 'Lobster', cursive; 
+  background-attachment: fixed;}
+p {font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
+h1 {text-align: center; color: darkred; }
+h4 {text-align: center; color: darkred; }
+h3 {color: darkred }
 strong {font size: 26px; font-weight: 600}
-em {color: #1a00ff; font-style: italic}
-img {margin-top: 75px; margin-right: 20px; float: right}
+em {color: darkred; font-style: italic}
+img {margin-top: 75px; margin-right: 20px; float: center}
 a {margin-top: 25px; margin-right: 10px; float: right}
-var {color: #1a00ff; font-style: italic}
-sup {color: #ff0000}
+var {color: darkred; font-style: italic}
+sup {color: darkred}
