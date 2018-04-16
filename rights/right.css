@@ -2,7 +2,7 @@
 body {background-image: url("const.jpg"); background-attachment: fixed;}
 h1 {text-align: center; color: darkred; }
 h4 {text-align: left; margin-left: 10px; color: darkred; }
-p {font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
+p {margin-left: 50px; font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
 h3 {color: darkred; font-family: 'Lobster', cursive }
 
 
