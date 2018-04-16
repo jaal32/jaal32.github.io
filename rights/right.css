@@ -6,4 +6,4 @@ p {font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
 h3 {color: darkred; font-family: 'Lobster', cursive }
 
 
-a {margin-top: 25px; text-align: center; }
+a {margin-top: 25px; float: center; }
