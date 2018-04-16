@@ -1,8 +1,8 @@
 body {background-color: #98FB98}
-p {font-family: Geogia; font-size: 16px; color: #1a00ff}
+p {font-family: Geogia; font-size: 16px; color: #000000}
 h1 {text-align: center; color: #1a00ff; }
 h4 {text-align: center; color: #1a00ff; }
-h3 {color: #00eaff }
+h3 {color: #000000 }
 strong {font size: 26px; font-weight: 600}
 em {font-size: 18px; font-style: italic; text-transform: uppercase}
 img {margin-top: 75px; margin-right: 20px; float: right}
