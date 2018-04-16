@@ -1,10 +1,9 @@
-<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet"
 body {background-image: url("const.jpg"); background-attachment: fixed;}
 p {font-family: 'Lobster', cursive; font-size: 16px; color: darkred}
 h1 {text-align: center; color: darkred; }
 h4 {text-align: center; color: darkred; }
 h3 {color: darkred; font-family: 'Lobster', cursive }
-strong {font size: 26px; font-weight: 600}
+strong {font size: 16px; font-weight: 600}
 
 
 a {margin-top: 25px; margin-right: 10px; float: right}
