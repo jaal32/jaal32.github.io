@@ -54,6 +54,10 @@ body {
 /* Middle column */
 .column.middle {
     width: 50%;
+    background-image: url("12.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 /* Clear floats after the columns */
