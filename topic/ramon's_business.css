@@ -57,7 +57,7 @@ body {
     background-image: url("12.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: center;
+    background-position: right bottom;
 }
 
 /* Clear floats after the columns */
