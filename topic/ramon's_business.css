@@ -3,10 +3,11 @@
 }
 
 body {
-    background-image: url("2.jpg");
+    background-image: url("24.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-postion: center;
+    color: #db7093;
     margin: 0;
 }
 
