@@ -3,10 +3,10 @@
 }
 
 body {
-    background-image: url("24.jpg");
+    background-image: url("2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-postion: center;
+    background-position: center;
     color: #8a455a;
     margin: 0;
 }
