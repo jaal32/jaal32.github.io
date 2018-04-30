@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
 }
+em {font-family: 'Pacifico', cursive;
+}
 var {
     font-family: 'Monoton', cursive;
     font-size: 40px;
