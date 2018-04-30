@@ -1,7 +1,10 @@
 * {
     box-sizing: border-box;
 }
-
+var {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+}
 body {
     color: #8a455a;
     margin: 0;
