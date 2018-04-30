@@ -44,12 +44,14 @@ body {
 
 /* Left and right column */
 .column.side {
+    background: linear-gradient(#696969, #36454f);
     width: 25%;
 }
 
 /* Middle column */
 .column.middle {
     width: 50%;
+    background: linear-gradient(#36454f, #696969);
 }
 
 /* Clear floats after the columns */
