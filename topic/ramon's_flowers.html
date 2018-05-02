@@ -3,14 +3,36 @@
 <head>
 <title>Ramon's Homepage</title>
       <style>
+            .container 
+   {position: relative;
+    font-family: Arial;}
+.text-block 
+   {position: absolute;
+    top: 20px;
+    right: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Black background with transparency */
+    
+    color: pink;
+    padding-left: 20px;
+    padding-right: 20px;}
+            
   body {background-image: url("2.jpg"); 
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center;}
-   table {color: white;
-         border-collapse: collapse;}
+            
+   table {border-collapse: collapse;
+    width: 100%;}
 
-table, td, th {border: 1px solid black;}
+th, td {text-align: left;
+    padding: 8px;}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {background-color: yellow;
+      color: white;}
+            
+            
     </style>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,12 +63,16 @@ table, td, th {border: 1px solid black;}
     <img src="12.jpg" alt="Dad posing">
   </div>
   <div class="column middle">
-    <h2>For Any Occasion</h2>
+    <div class="container">
+  <img src="2.jpg" alt="Pink flowers" style="width:100%;">
+  <div class="text-block">
+    <h2><em>For Any Occasion</em></h2>
     <p>Ramon's Flowers guarantee low prices and quality flowers.  Anything ranging from a
     wedding to baby showers.  For all special events including funerals.</p>
     <p>Prices start at
     $12.99 for half a dozen.  $49.99 for center-pieces.  $149.99 for large vases.</p>
-        <img src="2.jpg" alt="Pink flowers">
+        </div>
+</div>
         
         <table>
   <tr>
