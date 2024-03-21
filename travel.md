@@ -17,7 +17,7 @@
                                                                 <a href="sm">Social Media</a>
                                                             </li>
                                                             <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page">
-                                                                <a href="[https://www.marinecorpsleaguesfv1277.org/]">Veteran Organization to Volunteer</a>
+                                                                <a href="https://www.marinecorpsleaguesfv1277.org/">Veteran Organization to Volunteer</a>
 
 #### Greece
 
