@@ -1,6 +1,10 @@
 # **Travel**
 ###### By Jesus A Acosta
 
+<div class="fl-clear"></div>
+                                                    <nav aria-label="Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+                                                        <ul id="menu-main-menu" class="menu fl-menu-horizontal fl-toggle-none">
+
 <li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-13 current_page_item">
                                                                 <a href="https://jaal32.github.io/">Home</a>
                                                             </li>
